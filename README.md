@@ -28,7 +28,10 @@ Application uses
   -	EditText
   -	Buttons
   -	LinearLayout
+  
+  
 Features used
+
   -	Loading an image from the Website
   -	Navigation Drawer
   -	Notification
