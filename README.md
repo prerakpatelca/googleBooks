@@ -2,7 +2,7 @@
 This was developed in JAVA using Android Studio and Google Book's API, where user can search from range of Google Books via title, author and year to find information about the book.
 
 
-![alt text](https://github.com/prerakpatelca/googleBooks/blob/master/Screen Shot 2020-12-26 at 3.16.51 PM.png)
+![alt text](https://github.com/prerakpatelca/googleBooks/blob/master/Screen%20Shot%202020-12-26%20at%203.16.51%20PM.png)
 
 # Description
 I am using Google Books Web API Browser with a Database, Navigation Drawer, Notifications and ListViews. The user will be able to select a Home button and About button from Navigation Drawer. On clicking Home button from Navigation drawer, it would allow user to search Books using book title and/or author of the book. And, “About button” will explain about Google Books Web API.
